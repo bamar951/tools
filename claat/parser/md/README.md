@@ -27,7 +27,7 @@ will be understood by the renderer:
   - Hidden: Codelab is not shown in index.
 - Feedback Link: A link to send users to if they wish to leave feedback on the
   codelab.
-- Analytics Account: A Google Analytics ID to include with all codelab pages.
+- Analytics Account: A Google Analytics  to include with all codelab pages.
 
 ## Title
 
